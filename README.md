@@ -11,11 +11,10 @@ The project features smooth animations, dynamic transitions, and a responsive de
 
 👉 Click here to view the live projects 
 
-
-()
-
+(https://roshinivankela.github.io/Image-Slider/)
 
 
+---
 
 
 ## ✨ Features
