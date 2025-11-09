@@ -7,6 +7,17 @@ The project features smooth animations, dynamic transitions, and a responsive de
 
 ---
 
+🚀 Live Demo
+
+👉 Click here to view the live projects 
+
+
+()
+
+
+
+
+
 ## ✨ Features
 - 🎞️ Smooth sliding animation for each character  
 - 🔁 Next & previous navigation buttons  
